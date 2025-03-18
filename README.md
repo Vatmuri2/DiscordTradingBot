@@ -1,0 +1,2 @@
+# DiscordTradingBot
+Discord Trading Bot
